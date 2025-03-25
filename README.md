@@ -14,7 +14,7 @@ This process makes me to give data cleaning and preparation top priority in all 
 * **Removing Unnecessary Data:** I drop irrelevant columns that do not contribute to the analysis. I remove also unwanted characters or whitespace in text fields.
 * **Creating  Necessary Data:** I used tools like Excel function, DAX in power BI, Calculated Fields in Tableau and codes in both SQL and Python to create necessary columns required for the analysis.
 
-**Below are some of the print of data cleaning and preparation:**
+## Below are some of the print of data cleaning and preparation:**
 
 [Click here for the retail_sales_dataset](https://github.com/Chibuike-Ile/How-my-learning-process-starts-with-Excel/blob/main/retail_sales_dataset_Master.xlsx)
 
@@ -57,7 +57,7 @@ This process makes me to give data cleaning and preparation top priority in all 
 
 
 
-**Please research and complete the following tasks within the retail-sales_dataset.xlsx document in Task 2 worksheet, paste print screens into the provided box below:**
+## Please research and complete the following tasks within the retail-sales_dataset.xlsx document in Task 2 worksheet, paste print screens into the provided box below:
 
 ![image](https://github.com/user-attachments/assets/082fab78-1d6a-4480-bd25-cdcb74b0e551)
 
@@ -97,7 +97,7 @@ This process makes me to give data cleaning and preparation top priority in all 
 
 ![Day 2 Task 3](https://github.com/user-attachments/assets/d79c214d-1554-458f-9dfd-af6e22870437)
 
-**For the next task [Click here to access the dataset]()
+**For the next task [Click here to access the Student-dataset](https://github.com/Chibuike-Ile/How-my-learning-process-starts-with-Excel/blob/main/Student_dataset.xlsx)
 
 **Sources: Just IT**
 
@@ -114,7 +114,8 @@ The dataset below tracks the sales performance of different products in various 
 
 ![Day 3 Task 2 (2)](https://github.com/user-attachments/assets/6b5a8c22-a6a5-43b3-84b8-58f4814e60f8)
 
-In this project I have learnt more about Excel functions and formulas, I have also learnt how to cleaning and prepare data for analysis.
+
+**In this project I have learnt more about Excel functions and formulas, I have also learnt how to cleaning and prepare data for analysis.**
 
 
 
