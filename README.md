@@ -20,21 +20,21 @@ This process makes me to give data cleaning and preparation top priority in all 
 
 **Sources: Just IT**
 
-* In the sheet ‘retail_sales_dataset’ add all available data between columns A – H into a ‘table’.
+* **In the sheet ‘retail_sales_dataset’ add all available data between columns A – H into a ‘table’.**
  
   ![Day 2 Task 1 (1a)](https://github.com/user-attachments/assets/51bb285a-bd7b-41da-af9d-c16e6ddf2387)
 
-  * Using the ‘filter’ function, filter ‘Age’ to ‘largest to smallest’
+  * **Using the ‘filter’ function, filter ‘Age’ to ‘largest to smallest’**
     
   ![Day 2 Task 1 (2)](https://github.com/user-attachments/assets/b65335e5-954f-4a90-a605-ce04699f0863)
 
  ![Day 2 Task 1 (1b)](https://github.com/user-attachments/assets/43b043af-fcb3-4e51-8d34-f9d87299eeee)
 
-* Using the ‘SUM’ function, show me the commission total in cell ‘P10’
+* **Using the ‘SUM’ function, show me the commission total in cell ‘P10’**
     
 ![Day 2 task 1(3)](https://github.com/user-attachments/assets/df9dfdd9-e6db-4b32-985f-31c5e7d814e6)
 
-* Using the ‘AVERAGE’ function, show me the average commission in cell ‘P11’
+* **Using the ‘AVERAGE’ function, show me the average commission in cell ‘P11’**
   
 ![Day 2 Task 1 (4)](https://github.com/user-attachments/assets/94170b84-197e-4a72-badc-1a8194513a28)
 
