@@ -48,7 +48,7 @@ This process makes me to give data cleaning and preparation top priority in all 
 
 ![Excel functions](https://github.com/user-attachments/assets/d8312530-e715-45bc-9fbb-7cc083ed4bb6)
 
-* Also I used Vlookup and Concatenate to fill up the Transaction sheet as seen below:
+* **Also I used Vlookup and Concatenate to fill up the Transaction sheet as seen below:**
   
 ![To fill dataset](https://github.com/user-attachments/assets/edc3bbbc-e2a9-41ef-a955-d46f853cc219)
 
