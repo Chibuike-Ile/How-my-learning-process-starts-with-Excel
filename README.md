@@ -16,7 +16,7 @@ This process makes me to give data cleaning and preparation top priority in all 
 
 **Below are some of the print of data cleaning and preparation:**
 
-[Click here for the retail_sales_dataset]()
+[Click here for the retail_sales_dataset](https://github.com/Chibuike-Ile/How-my-learning-process-starts-with-Excel/blob/main/retail_sales_dataset_Master.xlsx)
 
 **Sources: Just IT**
 
