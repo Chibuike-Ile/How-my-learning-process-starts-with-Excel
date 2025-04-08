@@ -43,6 +43,9 @@ This process makes me to give data cleaning and preparation top priority in all 
 * I used the Sum function to calculate the total sales for all products.
 
 * I used the IF & IFS function to calculate the total sales & average sale for each product category (Clothing, Beauty & Electronics) and total sale for gender (Male & Female).
+  
+* I used conditional formatting on the average sales to highlights the high value with green and the lowest with red.
+
 
 **See the below print**
 
