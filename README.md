@@ -51,7 +51,8 @@ This process makes me to give data cleaning and preparation top priority in all 
 
 ![Excel functions](https://github.com/user-attachments/assets/d8312530-e715-45bc-9fbb-7cc083ed4bb6)
 
-* **Also I used Vlookup and Concatenate to fill up the Transaction sheet as seen below:**
+* **I used Vlookup  to fill up the Totals sales and product category columns and Concatenate to fill up the Concatenate to combine the totals and product category in Concatenate column.
+See the print below.:**
   
 ![To fill dataset](https://github.com/user-attachments/assets/edc3bbbc-e2a9-41ef-a955-d46f853cc219)
 
