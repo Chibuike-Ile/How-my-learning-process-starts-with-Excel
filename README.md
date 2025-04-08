@@ -14,7 +14,7 @@ This process makes me to give data cleaning and preparation top priority in all 
 * **Removing Unnecessary Data:** I drop irrelevant columns that do not contribute to the analysis. I remove also unwanted characters or whitespace in text fields.
 * **Creating  Necessary Data:** I used tools like Excel function, DAX in power BI, Calculated Fields in Tableau and codes in both SQL and Python to create necessary columns required for the analysis.
 
-## Below are some of the print of data cleaning and preparation:**
+## Below are some of the print of data cleaning and preparation:
 
 [Click here for the retail_sales_dataset](https://github.com/Chibuike-Ile/How-my-learning-process-starts-with-Excel/blob/main/retail_sales_dataset_Master.xlsx)
 
